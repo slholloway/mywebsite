@@ -6,7 +6,7 @@ left:
     href: mailto:info@shannonholloway.com
 right:
   - icon: fa-linkedin fa-lg
-    href: https://linkedin.com/in/shannholloway
+    href: https://www.linkedin.com/in/shannonholloway/
   - icon: fa-imdb fa-lg
     href: https://www.imdb.com/name/nm8697959/?ref_=ext_shr_lnk
   - icon: fa-youtube fa-lg
@@ -14,5 +14,5 @@ right:
   - icon: fa-vimeo fa-lg
     href: https://vimeo.com/shannonholloway
   - icon: fa-github fa-lg
-    href: https://github.com/slholloway/mywebsite
+    href: https://github.com/slholloway
 
