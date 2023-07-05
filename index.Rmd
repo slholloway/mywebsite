@@ -1,8 +1,8 @@
 ---
-title: "👋🏼 Hi, I'm Shannon"
-output: 
+title: "\U0001F44B\U0001F3FC Hi, I'm Shannon"
+output:
   html_document:
-    toc: FALSE
+    toc: no
 ---
 <center>
 ![Shannon presenting her research](Shannon-thesis-presentation.jpg){width=600px}
@@ -10,7 +10,7 @@ output:
 
 <br>
 
-# I scout the future to build innovative digital products 
+# Scouting product innovation opportunities 
 <br>
 I’m a User Experience (UX) research and design expert focused on incubating early-stage ideas into solutions that add unique value to customers. I enjoy the creative process of collaborating with diverse teams to develop new products from 0 to 1.  
 
@@ -32,3 +32,9 @@ My work has concentrated on these research questions:<ul>
 <br>
 
 ☕ Los Angeles, California, USA
+
+<br>
+<br>
+<br>
+Shannon Holloway, 2023 <br>
+Built with <a href="https://rmarkdown.rstudio.com">R Markdown</a>
